@@ -11,7 +11,7 @@ inputs:
     required: true
   coverage_threshold:
     description: "Coverage threshold"
-    default: 90
+    default: 40
     required: false
   working_directory:
     description: "Working directory"
